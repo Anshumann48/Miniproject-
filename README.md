@@ -40,6 +40,7 @@ To-Do List Program Algorithm:
 
 8. Option 6 (Quit)i want to:-
    -> Display "Goodbye!" and exit the loop.
+
 9.Invalid Choice:-
    -> If users choice is not 1-6, display "Invalid choice. Try again."
 
